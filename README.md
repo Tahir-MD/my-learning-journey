@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # My Google Certificates Journey (2024-2026)
 
 **Tahir Mahmood Dool** | Pakistan
