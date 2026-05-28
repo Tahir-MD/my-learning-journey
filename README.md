@@ -1,6 +1,9 @@
+cat > README.md << 'EOF'
 # My Google Certificates Journey (2024-2026)
 
-Hi! I'm Tahir Dool. Over the past two years, I completed **9 Google Professional Certificates and Specializations** on Coursera. This repo showcases what I learned and the projects I built along the way.
+**Tahir Mahmood Dool** | Pakistan
+
+Over the past two years, I completed **11 Google Professional Certificates and Specializations** on Coursera. This portfolio showcases everything I learned and built.
 
 ---
 
@@ -17,6 +20,23 @@ Hi! I'm Tahir Dool. Over the past two years, I completed **9 Google Professional
 | 7 | Google AI Essentials | May 2026 | Responsible AI, productivity tools |
 | 8 | Google Prompting Essentials | May 2026 | Advanced prompting, data summarization |
 | 9 | Google Agile Essentials | May 2026 | Scrum, sprint planning, retrospectives |
+| 10 | **Google Business Intelligence** | **May 2026** | **Data models, pipelines, dashboards, visualizations** |
+| 11 | **Google People Management Essentials** | **May 2026** | **Coaching, performance management, team development** |
+
+---
+
+## 🛠️ Skills & Tools
+
+| Category | Skills |
+|----------|--------|
+| Programming | Python, SQL, Linux |
+| Design | Figma, Wireframing, Prototyping |
+| AI/ML | Prompt Engineering, Predictive Modeling |
+| Security | SIEM, IDS, Threat Detection |
+| DevOps | Git, GitHub, Cloud Automation |
+| Project Management | Scrum, Agile, Sprint Planning |
+| **Business Intelligence** | **Data Models, Pipelines, Dashboards, Reporting** |
+| **Leadership** | **People Management, Coaching, Performance Management** |
 
 ---
 
@@ -24,57 +44,48 @@ Hi! I'm Tahir Dool. Over the past two years, I completed **9 Google Professional
 
 ### AI Projects (20+ artifacts)
 - Vibe coded custom AI solution
-- AI for brainstorming and research
-- AI-generated content and writing
+- AI for brainstorming, research, and content creation
 
 ### UX Design Projects
 - High-fidelity prototypes in Figma
-- Wireframes and low-fidelity prototypes
-- User research and usability testing
+- Wireframes and usability testing
 
 ### Python Automation
 - IT automation scripts
-- Git and GitHub workflows
-- Cloud configuration management
+- Git workflows and cloud configuration
 
-### Data Analytics
+### Data Analytics & Business Intelligence
 - Machine learning models
 - Regression analysis
-- Large dataset exploration
+- **Data pipelines and dashboards**
+- **Business intelligence reporting**
 
 ### Cybersecurity
 - Threat detection and response
 - SIEM tool implementation
-- Linux and SQL for security
 
----
-
-## 🛠️ Tools & Technologies
-
-| Category | Tools |
-|----------|-------|
-| Programming | Python, SQL, Linux |
-| Design | Figma, wireframing, prototyping |
-| AI/ML | Prompt engineering, predictive modeling |
-| DevOps | Git, GitHub, cloud automation |
-| Security | SIEM, IDS, threat detection |
-| Project Management | Scrum, Agile, sprint planning |
+### Leadership & Management
+- **Employee coaching techniques**
+- **Performance management strategies**
+- **Team development frameworks**
 
 ---
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** [Your email]
-- **Location:** Pakistan
-
-I'm actively looking for roles in:
+**I'm actively looking for roles in:**
 - AI/ML Engineering
 - UX/UI Design
 - Cybersecurity Analysis
 - Data Analytics / Data Science
+- Business Intelligence
 - IT Automation
 - Agile Project Management
+- People Management / Team Lead
+
+**Location:** Pakistan
+
+**Open to:** Remote, Hybrid, On-site
 
 ---
 
@@ -89,7 +100,12 @@ I'm actively looking for roles in:
 - [Google Agile Essentials](https://coursera.org/verify/specializaton/BO24RW7W3MF6)
 - [Google Advanced Data Analytics](https://coursera.org/verify/professional-cert/9BCKZQ0OHNQ4)
 - [Google Digital Marketing & E-commerce](https://coursera.org/verify/professional-cert/KU672HCKUNRZ)
+- [Google Business Intelligence](https://coursera.org/verify/professional-cert/OST7YW7RW3YA)
+- [Google People Management Essentials](https://coursera.org/verify/specialization/Q84RD3DW8M8V)
 
 ---
 
 *Last updated: May 2026*
+
+**⭐ If you're a recruiter or hiring manager, let's connect!**
+EOF
